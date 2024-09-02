@@ -29,8 +29,8 @@ RegisterNumber: 212223040149
 */
 
 Program to implement the linear regression using gradient descent.
-Developed by: PREM R
-RegisterNumber: 212223240124
+Developed by: DHARAN ADITYA
+RegisterNumber: 212223040035
 import pandas as pd
 import numpy as np
 from sklearn.preprocessing import StandardScaler

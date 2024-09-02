@@ -24,13 +24,9 @@ Step 6:End the program
 ```
 /*
 Program to implement the linear regression using gradient descent.
-Developed by: Pranavesh Saikumar 
-RegisterNumber: 212223040149
-*/
-
-Program to implement the linear regression using gradient descent.
 Developed by: DHARAN ADITYA
 RegisterNumber: 212223040035
+*/
 import pandas as pd
 import numpy as np
 from sklearn.preprocessing import StandardScaler
